@@ -50,6 +50,7 @@
 		FA41AC802164774000823ED5 /* AdaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA41AC7F2164774000823ED5 /* AdaTests.swift */; };
 		FA41AC8B2164774000823ED5 /* AdaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA41AC8A2164774000823ED5 /* AdaUITests.swift */; };
 		FA41AC99216478E800823ED5 /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = FA41AC98216478E800823ED5 /* Podfile */; };
+		FA704043216485B00071B354 /* Ada.pcvd in Resources */ = {isa = PBXBuildFile; fileRef = FA704042216485B00071B354 /* Ada.pcvd */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -126,6 +127,7 @@
 		FA41AC8A2164774000823ED5 /* AdaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdaUITests.swift; sourceTree = "<group>"; };
 		FA41AC8C2164774000823ED5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FA41AC98216478E800823ED5 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
+		FA704042216485B00071B354 /* Ada.pcvd */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = Ada.pcvd; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -320,6 +322,7 @@
 				FA359A2821647F75005C0484 /* Notes */,
 				FA3599DE21647DAD005C0484 /* docs */,
 				FA41AC692164773F00823ED5 /* Ada */,
+				FA70403F216485500071B354 /* Resources */,
 				FA41AC7E2164774000823ED5 /* AdaTests */,
 				FA41AC892164774000823ED5 /* AdaUITests */,
 				FA41AC682164773F00823ED5 /* Products */,
@@ -371,6 +374,30 @@
 				FA41AC8C2164774000823ED5 /* Info.plist */,
 			);
 			path = AdaUITests;
+			sourceTree = "<group>";
+		};
+		FA70403F216485500071B354 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				FA704040216485810071B354 /* Paintcode */,
+				FA7040412164858A0071B354 /* Sketch */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		FA704040216485810071B354 /* Paintcode */ = {
+			isa = PBXGroup;
+			children = (
+				FA704042216485B00071B354 /* Ada.pcvd */,
+			);
+			path = Paintcode;
+			sourceTree = "<group>";
+		};
+		FA7040412164858A0071B354 /* Sketch */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Sketch;
 			sourceTree = "<group>";
 		};
 		FFCB481B81A96511A3029A43 /* Pods */ = {
@@ -508,6 +535,7 @@
 				FA359A2421647DAD005C0484 /* Info.plist in Resources */,
 				FA359A1321647DAD005C0484 /* gh.png in Resources */,
 				FA359A1421647DAD005C0484 /* undocumented.json in Resources */,
+				FA704043216485B00071B354 /* Ada.pcvd in Resources */,
 				FA359A1021647DAD005C0484 /* jazzy.js in Resources */,
 				FA359A1121647DAD005C0484 /* carat.png in Resources */,
 				FA359A1721647DAD005C0484 /* docSet.dsidx in Resources */,
