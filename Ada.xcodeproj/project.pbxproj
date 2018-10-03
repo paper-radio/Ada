@@ -51,6 +51,7 @@
 		FA41AC8B2164774000823ED5 /* AdaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA41AC8A2164774000823ED5 /* AdaUITests.swift */; };
 		FA41AC99216478E800823ED5 /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = FA41AC98216478E800823ED5 /* Podfile */; };
 		FA704043216485B00071B354 /* Ada.pcvd in Resources */ = {isa = PBXBuildFile; fileRef = FA704042216485B00071B354 /* Ada.pcvd */; };
+		FA704045216486400071B354 /* scratch.sketch in Resources */ = {isa = PBXBuildFile; fileRef = FA704044216486400071B354 /* scratch.sketch */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -128,6 +129,7 @@
 		FA41AC8C2164774000823ED5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FA41AC98216478E800823ED5 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
 		FA704042216485B00071B354 /* Ada.pcvd */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = Ada.pcvd; sourceTree = "<group>"; };
+		FA704044216486400071B354 /* scratch.sketch */ = {isa = PBXFileReference; lastKnownFileType = file; path = scratch.sketch; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -396,6 +398,7 @@
 		FA7040412164858A0071B354 /* Sketch */ = {
 			isa = PBXGroup;
 			children = (
+				FA704044216486400071B354 /* scratch.sketch */,
 			);
 			path = Sketch;
 			sourceTree = "<group>";
@@ -538,6 +541,7 @@
 				FA704043216485B00071B354 /* Ada.pcvd in Resources */,
 				FA359A1021647DAD005C0484 /* jazzy.js in Resources */,
 				FA359A1121647DAD005C0484 /* carat.png in Resources */,
+				FA704045216486400071B354 /* scratch.sketch in Resources */,
 				FA359A1721647DAD005C0484 /* docSet.dsidx in Resources */,
 				FA359A0B21647DAD005C0484 /* highlight.css in Resources */,
 				FA3599DB21647A50005C0484 /* .gitignore in Resources */,
