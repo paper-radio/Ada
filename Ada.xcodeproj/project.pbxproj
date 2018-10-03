@@ -25,6 +25,22 @@
 		FA704045216486400071B354 /* scratch.sketch in Resources */ = {isa = PBXBuildFile; fileRef = FA704044216486400071B354 /* scratch.sketch */; };
 		FA7040472164873C0071B354 /* CHANGELOG.md in Resources */ = {isa = PBXBuildFile; fileRef = FA7040462164873C0071B354 /* CHANGELOG.md */; };
 		FA704049216488EF0071B354 /* .jazzy.yaml in Resources */ = {isa = PBXBuildFile; fileRef = FA704048216488EF0071B354 /* .jazzy.yaml */; };
+		FA70406221648D5A0071B354 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = FA70404D21648D5A0071B354 /* index.html */; };
+		FA70406321648D5A0071B354 /* search.json in Resources */ = {isa = PBXBuildFile; fileRef = FA70404E21648D5A0071B354 /* search.json */; };
+		FA70406421648D5A0071B354 /* highlight.css in Resources */ = {isa = PBXBuildFile; fileRef = FA70405021648D5A0071B354 /* highlight.css */; };
+		FA70406521648D5A0071B354 /* jazzy.css in Resources */ = {isa = PBXBuildFile; fileRef = FA70405121648D5A0071B354 /* jazzy.css */; };
+		FA70406621648D5A0071B354 /* ViewController.html in Resources */ = {isa = PBXBuildFile; fileRef = FA70405321648D5A0071B354 /* ViewController.html */; };
+		FA70406721648D5A0071B354 /* AppDelegate.html in Resources */ = {isa = PBXBuildFile; fileRef = FA70405421648D5A0071B354 /* AppDelegate.html */; };
+		FA70406821648D5A0071B354 /* jquery.min.js in Resources */ = {isa = PBXBuildFile; fileRef = FA70405621648D5A0071B354 /* jquery.min.js */; };
+		FA70406921648D5A0071B354 /* jazzy.js in Resources */ = {isa = PBXBuildFile; fileRef = FA70405721648D5A0071B354 /* jazzy.js */; };
+		FA70406A21648D5A0071B354 /* carat.png in Resources */ = {isa = PBXBuildFile; fileRef = FA70405921648D5A0071B354 /* carat.png */; };
+		FA70406B21648D5A0071B354 /* dash.png in Resources */ = {isa = PBXBuildFile; fileRef = FA70405A21648D5A0071B354 /* dash.png */; };
+		FA70406C21648D5A0071B354 /* gh.png in Resources */ = {isa = PBXBuildFile; fileRef = FA70405B21648D5A0071B354 /* gh.png */; };
+		FA70406D21648D5A0071B354 /* undocumented.json in Resources */ = {isa = PBXBuildFile; fileRef = FA70405C21648D5A0071B354 /* undocumented.json */; };
+		FA70406E21648D5A0071B354 /* badge.svg in Resources */ = {isa = PBXBuildFile; fileRef = FA70405D21648D5A0071B354 /* badge.svg */; };
+		FA70406F21648D5A0071B354 /* Classes.html in Resources */ = {isa = PBXBuildFile; fileRef = FA70405E21648D5A0071B354 /* Classes.html */; };
+		FA70407021648D5A0071B354 /* Ada.tgz in Resources */ = {isa = PBXBuildFile; fileRef = FA70406021648D5A0071B354 /* Ada.tgz */; };
+		FA70407121648D5A0071B354 /* Ada.docset in Resources */ = {isa = PBXBuildFile; fileRef = FA70406121648D5A0071B354 /* Ada.docset */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -76,6 +92,23 @@
 		FA704044216486400071B354 /* scratch.sketch */ = {isa = PBXFileReference; lastKnownFileType = file; path = scratch.sketch; sourceTree = "<group>"; };
 		FA7040462164873C0071B354 /* CHANGELOG.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = CHANGELOG.md; sourceTree = "<group>"; };
 		FA704048216488EF0071B354 /* .jazzy.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .jazzy.yaml; sourceTree = "<group>"; };
+		FA70404B21648D420071B354 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FA70404D21648D5A0071B354 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		FA70404E21648D5A0071B354 /* search.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = search.json; sourceTree = "<group>"; };
+		FA70405021648D5A0071B354 /* highlight.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = highlight.css; sourceTree = "<group>"; };
+		FA70405121648D5A0071B354 /* jazzy.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = jazzy.css; sourceTree = "<group>"; };
+		FA70405321648D5A0071B354 /* ViewController.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = ViewController.html; sourceTree = "<group>"; };
+		FA70405421648D5A0071B354 /* AppDelegate.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = AppDelegate.html; sourceTree = "<group>"; };
+		FA70405621648D5A0071B354 /* jquery.min.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = jquery.min.js; sourceTree = "<group>"; };
+		FA70405721648D5A0071B354 /* jazzy.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = jazzy.js; sourceTree = "<group>"; };
+		FA70405921648D5A0071B354 /* carat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carat.png; sourceTree = "<group>"; };
+		FA70405A21648D5A0071B354 /* dash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dash.png; sourceTree = "<group>"; };
+		FA70405B21648D5A0071B354 /* gh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gh.png; sourceTree = "<group>"; };
+		FA70405C21648D5A0071B354 /* undocumented.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = undocumented.json; sourceTree = "<group>"; };
+		FA70405D21648D5A0071B354 /* badge.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = badge.svg; sourceTree = "<group>"; };
+		FA70405E21648D5A0071B354 /* Classes.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = Classes.html; sourceTree = "<group>"; };
+		FA70406021648D5A0071B354 /* Ada.tgz */ = {isa = PBXFileReference; lastKnownFileType = file; path = Ada.tgz; sourceTree = "<group>"; };
+		FA70406121648D5A0071B354 /* Ada.docset */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Ada.docset; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,6 +161,7 @@
 			isa = PBXGroup;
 			children = (
 				FA359A2821647F75005C0484 /* Notes */,
+				FA70404C21648D5A0071B354 /* Doc */,
 				FA41AC692164773F00823ED5 /* Ada */,
 				FA70403F216485500071B354 /* Resources */,
 				FA41AC7E2164774000823ED5 /* AdaTests */,
@@ -135,6 +169,7 @@
 				FA41AC682164773F00823ED5 /* Products */,
 				FFCB481B81A96511A3029A43 /* Pods */,
 				16101A69BB593D6888981C67 /* Frameworks */,
+				FA70404A21648D280071B354 /* Playgrounds */,
 				FA704048216488EF0071B354 /* .jazzy.yaml */,
 				FA3599DA21647A50005C0484 /* .gitignore */,
 				FA41AC98216478E800823ED5 /* Podfile */,
@@ -208,6 +243,77 @@
 				FA704044216486400071B354 /* scratch.sketch */,
 			);
 			path = Sketch;
+			sourceTree = "<group>";
+		};
+		FA70404A21648D280071B354 /* Playgrounds */ = {
+			isa = PBXGroup;
+			children = (
+				FA70404B21648D420071B354 /* MyPlayground.playground */,
+			);
+			path = Playgrounds;
+			sourceTree = "<group>";
+		};
+		FA70404C21648D5A0071B354 /* Doc */ = {
+			isa = PBXGroup;
+			children = (
+				FA70404D21648D5A0071B354 /* index.html */,
+				FA70404E21648D5A0071B354 /* search.json */,
+				FA70404F21648D5A0071B354 /* css */,
+				FA70405221648D5A0071B354 /* Classes */,
+				FA70405521648D5A0071B354 /* js */,
+				FA70405821648D5A0071B354 /* img */,
+				FA70405C21648D5A0071B354 /* undocumented.json */,
+				FA70405D21648D5A0071B354 /* badge.svg */,
+				FA70405E21648D5A0071B354 /* Classes.html */,
+				FA70405F21648D5A0071B354 /* docsets */,
+			);
+			path = Doc;
+			sourceTree = "<group>";
+		};
+		FA70404F21648D5A0071B354 /* css */ = {
+			isa = PBXGroup;
+			children = (
+				FA70405021648D5A0071B354 /* highlight.css */,
+				FA70405121648D5A0071B354 /* jazzy.css */,
+			);
+			path = css;
+			sourceTree = "<group>";
+		};
+		FA70405221648D5A0071B354 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				FA70405321648D5A0071B354 /* ViewController.html */,
+				FA70405421648D5A0071B354 /* AppDelegate.html */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		FA70405521648D5A0071B354 /* js */ = {
+			isa = PBXGroup;
+			children = (
+				FA70405621648D5A0071B354 /* jquery.min.js */,
+				FA70405721648D5A0071B354 /* jazzy.js */,
+			);
+			path = js;
+			sourceTree = "<group>";
+		};
+		FA70405821648D5A0071B354 /* img */ = {
+			isa = PBXGroup;
+			children = (
+				FA70405921648D5A0071B354 /* carat.png */,
+				FA70405A21648D5A0071B354 /* dash.png */,
+				FA70405B21648D5A0071B354 /* gh.png */,
+			);
+			path = img;
+			sourceTree = "<group>";
+		};
+		FA70405F21648D5A0071B354 /* docsets */ = {
+			isa = PBXGroup;
+			children = (
+				FA70406021648D5A0071B354 /* Ada.tgz */,
+				FA70406121648D5A0071B354 /* Ada.docset */,
+			);
+			path = docsets;
 			sourceTree = "<group>";
 		};
 		FFCB481B81A96511A3029A43 /* Pods */ = {
@@ -330,17 +436,33 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA70406421648D5A0071B354 /* highlight.css in Resources */,
 				FA359A2721647E50005C0484 /* README.md in Resources */,
 				FA3599DD21647A94005C0484 /* LICENCE in Resources */,
+				FA70406F21648D5A0071B354 /* Classes.html in Resources */,
 				FA704043216485B00071B354 /* Ada.pcvd in Resources */,
+				FA70406321648D5A0071B354 /* search.json in Resources */,
+				FA70406621648D5A0071B354 /* ViewController.html in Resources */,
 				FA704045216486400071B354 /* scratch.sketch in Resources */,
+				FA70406521648D5A0071B354 /* jazzy.css in Resources */,
 				FA3599DB21647A50005C0484 /* .gitignore in Resources */,
 				FA7040472164873C0071B354 /* CHANGELOG.md in Resources */,
+				FA70406821648D5A0071B354 /* jquery.min.js in Resources */,
 				FA41AC752164774000823ED5 /* LaunchScreen.storyboard in Resources */,
+				FA70406C21648D5A0071B354 /* gh.png in Resources */,
+				FA70406D21648D5A0071B354 /* undocumented.json in Resources */,
 				FA41AC722164774000823ED5 /* Assets.xcassets in Resources */,
+				FA70407021648D5A0071B354 /* Ada.tgz in Resources */,
 				FA704049216488EF0071B354 /* .jazzy.yaml in Resources */,
+				FA70406721648D5A0071B354 /* AppDelegate.html in Resources */,
+				FA70406221648D5A0071B354 /* index.html in Resources */,
+				FA70407121648D5A0071B354 /* Ada.docset in Resources */,
+				FA70406E21648D5A0071B354 /* badge.svg in Resources */,
 				FA41AC99216478E800823ED5 /* Podfile in Resources */,
+				FA70406B21648D5A0071B354 /* dash.png in Resources */,
+				FA70406921648D5A0071B354 /* jazzy.js in Resources */,
 				FA41AC702164773F00823ED5 /* Main.storyboard in Resources */,
+				FA70406A21648D5A0071B354 /* carat.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
