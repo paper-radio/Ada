@@ -1,0 +1,13 @@
+# About
+module: Ada
+author: Alexander Adrian Guerra
+author_url: http://paper-rad.io
+readme: README.md
+github_url: https://github.com/paper-radio/Ada
+copyright: '© 2018 Alexander Adrian Guerra under [MIT License](https://opensource.org/licenses/MIT).'
+output: Doc
+exclude:
+    - "Resources*/*.*"
+    - "Pods*/*.*"
+    - "Frameworks*/*.*"
+clean: true

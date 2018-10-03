@@ -1,0 +1,5 @@
+/build
+/pods
+
+Ada.xcworkspace
+Podfile.lock
