@@ -15,4 +15,7 @@ Documentaion is created with [Jazzy](https://github.com/realm/jazzy).
 jazzy --min-acl internal
 ```
 
+## Changelog
+[Changelog](https://keepachangelog.com/en/1.0.0/)
+
 ## Licence MIT
